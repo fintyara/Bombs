@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2904c655a3462d04bbf43957fd92e300, type: 3}
+  m_Name: Angry
+  m_EditorClassIdentifier: 
+  _left: {fileID: -2359721649071251821, guid: ecf4690d37a22d641a9f333a4cf748c1, type: 3}
+  _right: {fileID: 748373261593968425, guid: ecf4690d37a22d641a9f333a4cf748c1, type: 3}
+  _up: {fileID: 6612374894605627977, guid: ecf4690d37a22d641a9f333a4cf748c1, type: 3}
+  _down: {fileID: 5361668627280901228, guid: ecf4690d37a22d641a9f333a4cf748c1, type: 3}

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3d95a15436a2f144bca6adf11777e6c, type: 3}
+  m_Name: BlockedMove
+  m_EditorClassIdentifier: 
+  _entityTypes:
+  - {fileID: 11400000, guid: e3952cfeb9a60be429c83be98e96228e, type: 2}
+  - {fileID: 11400000, guid: 10e819a71ac07f44ebf4735efba9adfe, type: 2}
+  - {fileID: 11400000, guid: 4c9081bbcf6bdd240a4c71aac45c1f2d, type: 2}
+  - {fileID: 11400000, guid: 7ce37548eebc0194a977121332cd7a10, type: 2}
