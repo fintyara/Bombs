@@ -11,6 +11,7 @@ namespace NucGames.Bombs
         [SerializeField] private float _speed = 0.02f;
         [SerializeField] private float _minDist = 0.1f;
         [SerializeField] private LayerMask _layerMask;
+        [SerializeField] private bool _needAligment;
         private Transform _myCell;
         
         
@@ -32,7 +33,7 @@ namespace NucGames.Bombs
         {
             UpdateTime();
             
-            if (_myCell != null)
+            if (_needAligment && _myCell != null)
                 Aligment();
             
             if(_spendTime >= _timeIdle || _spendTime >= _maxTime)

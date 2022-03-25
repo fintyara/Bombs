@@ -9,5 +9,5 @@
    Получилось заморочено, но общая система гибкая. Можно настраивать взаимодействия всего со всем
 Намного проще было бы реализовать через ячейки, которые содержат сущности. В этом случае не нужны проверки через рейкасты, но теряется гибкость
 
-https://drive.google.com/file/d/1LV5HFubvPz1cGki6j-U1Aiy7KIbI0rvj/view?usp=sharing
+https://drive.google.com/file/d/1lYuZxj9x6y8ACNKUuQkxhtsX1R-ikgda/view?usp=sharing
 https://github.com/fintyara/Bombs

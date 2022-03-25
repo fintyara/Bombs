@@ -317,13 +317,14 @@ MonoBehaviour:
   _maxTime: 10
   _spendTime: 0
   _timeIdle: 0
-  _maxTimeIdle: 2
+  _maxTimeIdle: 1
   _minTimeIdle: 3
   _speed: 0.02
   _minDist: 0.1
   _layerMask:
     serializedVersion: 2
     m_Bits: 256
+  _needAligment: 0
 --- !u!114 &702912991261665020
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -357,7 +358,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   _active: 0
-  _maxTime: 10
+  _maxTime: 12
   _spendTime: 0
   _moveOnCells: {fileID: 0}
 --- !u!114 &702912991261665021
